@@ -37,10 +37,10 @@ As informações foram reunidas a partir de diferentes formatos de conteúdo, bu
 
 Entre as principais fontes utilizadas estão:
 
-- 📖 Audiobook do livro **O Investidor Inteligente**;
-- 🎥 Vídeos sobre Benjamin Graham e Value Investing disponíveis no YouTube;
-- 📄 Artigos especializados sobre investimentos;
-- 🌐 Sites especializados em educação financeira e análise fundamentalista.
+- 📖 Audiobook do livro **O Investidor Inteligente**; https://www.youtube.com/watch?v=fMo_xntieUo
+- 🎥 Vídeos sobre Benjamin Graham e Value Investing disponíveis no YouTube; https://www.youtube.com/watch?v=cWNqf1gifR8 ; 
+- 📄 Artigos especializados sobre investimentos; https://sites.duke.edu/djepapers/files/2016/08/bierig.pdf
+- 🌐 Sites especializados em educação financeira e análise fundamentalista; https://blog.toroinvestimentos.com.br/bolsa/formula-de-graham/.
 
 ---
 
