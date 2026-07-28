@@ -88,6 +88,7 @@ Esse desafio proporcionou uma oportunidade de aprender conceitos fundamentais co
 | **Valor Intrínseco** | Estimativa do valor real de um ativo considerando seus fundamentos financeiros. |
 | **NotebookLM** | Ferramenta de Inteligência Artificial desenvolvida para organizar, sintetizar e responder perguntas com base em documentos fornecidos pelo usuário. |
 
+- O glossário completo pode ser acessado em [Engenharia de Prompts](prompts/engenharia-de-prompts.md)
 ---
 
 ## 🚀 Prompts reutilizáveis
