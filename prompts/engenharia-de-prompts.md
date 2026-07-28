@@ -101,6 +101,66 @@ Esse prompt demonstrou como transformar conceitos teóricos em aplicações prá
 
 ---
 
+# Prompt 4 - Glossário do conteúdo abordado
+
+## Objetivo
+
+Facilitar o acesso à conceitos e definições importantes da metodologia de investimentos de Benjamin Graham.
+
+### Prompt 
+
+> Estruture um glossário com os principais conceitos e definições importantes do conteúdo abordado
+
+### Resumo da resposta
+
+Abaixo, apresento um glossário estruturado com os termos e conceitos centrais da metodologia de Benjamin Graham e do investimento em valor, conforme detalhado nas fontes:
+### A - C
+- Ações de Segunda Linha: Empresas que não são líderes de setores importantes e que, por serem menos populares, costumam ser negociadas a preços muito abaixo do seu valor justo, oferecendo oportunidades de subvalorização
+
+- Análise Fundamentalista: Estudo profundo dos factos financeiros de uma empresa (ativos, lucros, dividendos e perspetivas) para determinar o seu valor real, em vez de depender de tendências de mercado ou gráficos
+
+- Cigar-Butts (Bitucas de Cigarro): Estratégia de comprar empresas medíocres por um preço tão baixo (abaixo do valor de liquidação) que ainda permitem obter um "último trago" de lucro antes de desaparecerem ou serem reestruturadas
+
+Custo Médio em Dólares (Dollar-Cost Averaging - DCA): Método de investir uma quantia fixa de dinheiro em intervalos regulares, independentemente do preço das ações. Isto garante que se compram mais cotas quando os preços estão baixos e menos quando estão altos
+
+### D - I
+- Diversificação: Regra de gestão de risco que consiste em manter entre 10 e 30 ações de diferentes setores para evitar perdas pesadas caso uma única empresa fracasse
+
+- Especulação: Operação financeira que não cumpre os requisitos de segurança do capital principal e retorno adequado; foca-se em prever movimentos de preços a curto prazo
+
+- Filtros de Seleção: Critérios quantitativos mecânicos (como liquidez corrente, estabilidade de lucros e histórico de dividendos) usados para criar uma barreira de segurança contra empresas financeiramente frágeis
+
+- Investimento: Operação que, após análise exaustiva dos factos, promete a segurança do capital principal e um retorno satisfatório
+
+- Investidor Defensivo (ou Passivo): Perfil que prioriza a segurança, a simplicidade e a estabilidade de resultados, dedicando o mínimo de tempo e esforço à gestão da carteira
+
+- Investidor Empreendedor (ou Ativo/Agressivo): Perfil disposto a dedicar tempo e esforço intelectual à análise de balanços para encontrar oportunidades de retorno acima da média de mercado
+
+### L - N
+- LPA (Lucro por Ação): Indicador que divide o lucro líquido da empresa pelo número total de ações no mercado
+
+- Margem de Segurança: O conceito mais importante da metodologia. É a diferença entre o valor intrínseco de uma ação e o seu preço de mercado; serve como uma proteção contra erros de análise ou imprevistos da economia
+
+- NCAV (Net Current Asset Value - Valor Ativo Circulante Líquido): Ativo circulante menos o passivo total e ações preferenciais. Graham recomendava comprar ações que custassem menos de dois terços deste valor (estratégia net-net)
+
+- Número de Graham: Fórmula para calcular o preço máximo que um investidor defensivo deve pagar por uma ação madura:  
+22,5×LPA×VPA
+
+### S - V
+- Senhor Mercado (Mr. Market): Alegoria de um sócio bipolar que oferece preços diários baseados no seu humor (euforia ou depressão). O investidor deve usá-lo para seu proveito e não ser guiado pelas suas emoções
+
+- Situações Especiais: Oportunidades de arbitragem em fusões, liquidações ou reestruturações jurídicas onde o preço de mercado costuma subvalorizar o ativo devido à complexidade do processo
+
+- Valor Intrínseco: O valor real e subjacente de uma empresa, independente da cotação na bolsa, calculado com base em dados financeiros concretos
+
+- VPA (Valor Patrimonial por Ação): Património líquido da empresa dividido pelo total de ações
+
+### Aprendizado
+
+Esse prompt unificou os conceitos mais importantes para facilitar a consulta quando necessário, otimizando o processo de aprendizagem e contribuindo para o desenvolvimento do conhecimento.
+ 
+---
+
 # Considerações finais
 
 Durante o desenvolvimento deste projeto, observei que a qualidade das respostas depende diretamente da clareza e da especificidade dos prompts utilizados.
@@ -108,3 +168,4 @@ Durante o desenvolvimento deste projeto, observei que a qualidade das respostas 
 Embora este tenha sido meu primeiro contato com o NotebookLM, a experiência demonstrou o potencial da ferramenta para organizar conhecimento, sintetizar informações provenientes de diferentes fontes e acelerar o processo de aprendizagem.
 
 A principal dificuldade encontrada durante o projeto não esteve relacionada ao uso da Inteligência Artificial, mas sim à documentação e organização do projeto utilizando o GitHub, por ser meu primeiro contato com a plataforma.
+
