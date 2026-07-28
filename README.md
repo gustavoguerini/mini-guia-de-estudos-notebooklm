@@ -44,17 +44,13 @@ Entre as principais fontes utilizadas estão:
 
 ---
 
-## 💬 Engenharia de Prompts
+## ## 💬 Engenharia de Prompts
 
-Durante a construção do caderno temático, utilizei o NotebookLM para sintetizar as informações presentes nas fontes adicionadas.
+Durante o desenvolvimento do projeto, documentei os principais prompts utilizados, as respostas obtidas e as observações sobre cada interação.
 
-### Prompt utilizado
+➡️ **Acesse a documentação completa aqui:**
 
-```text
-Quais são os principais pilares do investimento segundo Benjamin Graham?
-```
-
-Esse prompt serviu como ponto de partida para estruturar os conceitos fundamentais presentes no material estudado.
+📄 [Engenharia de Prompts](prompts/engenharia-de-prompts.md)
 
 ---
 
